@@ -1,0 +1,9 @@
+# Be careful with the installation
+# Web-scrapping
+import requests as rq
+from bs4 import BeautifulSoup
+
+hk_URL = 'https://zh-yue.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%B8%80%E8%A6%BD'
+html = requests.get(hk_URL)
+soup = BeautifulSoup(html.text,"lxml") #use lxml as parser
+soup
