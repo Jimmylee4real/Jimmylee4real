@@ -1,6 +1,6 @@
 - 👋 Hi, this is Jimmy Lee from Hong Kong
 - 🏫 I am currently a postgraduate student in Finance (FinTech and Financial Analytics)
-- 👀 I’m interested in Finance and Machine learning, High-Frequency trading
+- 👀 I’m interested in Finance, Machine learning, Textual Analysis and High-Frequency trading
 - 🌱 I’m currently learning Python, VBA and SQL
 - 📫 Please feel free to reach me or simply drop me a message on my linkedin. I am always curious and am constantly learning!!!
 
